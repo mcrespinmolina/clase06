@@ -1,0 +1,35 @@
+h1 {
+    font-size: 4vw; font-family: sans-serif;
+    background-image: url("../imagenes/gengar.jpg");
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 35px;
+    margin: 3vw 10vw
+    
+}
+
+p {
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: #7d0481;
+    border: solid 5px;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 5vw 10vw
+}
+
+body {
+    font-family: verdana;
+    background-image: url("../imagenes/fondo.jpg");
+}
+
+div {
+    text-align: center; font-size: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 2, 53);
+    border-color: rgb(132, 0, 255);
+    border: solid 3px;
+    padding: 4px;
+    border-radius: 10px;
+    margin: 5vw 10vw
+}
